@@ -27,7 +27,7 @@ Accept: application/vnd.github.v3+json
 
 You can search for users matching a certain name. For example, if we wanted to
 find all users named `octocat`, we would make a `GET` request to
-`https://api.github.com/search/users?q=octocat`. To view the response, you can
+`https://api.github.com/search/users?q=octocat`ommand to authenticate before making any requests. For more information, . To view the response, you can
 copy and paste that URL into your browser.
 
 This endpoint is rate limited. This means the API will stop returning data if
